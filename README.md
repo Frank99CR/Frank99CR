@@ -1,4 +1,4 @@
-### Basic Project 👋
+### I’m currently learning Python 👋
 
 <!--
 **Frank99CR/Frank99CR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
