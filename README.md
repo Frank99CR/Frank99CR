@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Francisco</h1>
 <h3 align="center">Fullstack Developer in the making from CR.</h3>
 
+<style>background-color: white</style>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=frank99cr&label=Profile%20views&color=0e75b6&style=flat" alt="frank99cr" /> </p>
 
 - 🔭 I’m currently working on **e-commerce project**
