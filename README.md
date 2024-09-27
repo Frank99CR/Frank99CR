@@ -1,7 +1,7 @@
 ### Hi 👋
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Frank99CR&show_icons=true)
 
 <!--
 **Frank99CR/Frank99CR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
