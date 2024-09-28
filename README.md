@@ -52,7 +52,7 @@
 <h3 align="left">My Stats:</h3>
 <p align="center">
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=frank99cr&show_icons=true&locale=en&layout=compact" alt="Top languages" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=frank99cr&show_icons=true&theme=radical)locale=en" alt="GitHub stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical" alt="GitHub stats" />
 </p>
 
 </div>
