@@ -4,6 +4,10 @@
 <h3 align="center">Fullstack Developer in the making from CR.</h3>
 
 <p align="center">
+  <img src="https://www.deviantart.com/pixeljeff/art/Coding-990517671" alt="GIF divertido" width="400"/>
+</p>
+
+<p align="center">
   <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExZXZtNmhiMmo4cDgxMXRodzVieXBsaW8zamp0NTRwYTg3YnF6dHFubSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JqmupuTVZYaQX5s094/giphy.gif" alt="GIF divertido" width="400"/>
 </p>
 
